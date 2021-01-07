@@ -1,18 +1,29 @@
 ## Crowdfunding para que Antonio estudie en Francia!
 
 # ¡GRACIAS POR SU APOYO!
-## Thank you for your support!
-# Total  $33'050.00   MXN
+Thanks for your support!
+# Total  $78'700.00   MXN
 
 
 ### Donadores:
 ```
 
-JPB   $2'000.00   MXN
----     $150.00   MXN
-DOM     $900.00   MXN
-FJG   $5'000.00   MXN
-MAV  $23'000.00   MXN
-CAP   $2'000.00   MXN
+JPB   $2'000.00   MXN Guadalajara
+---     $150.00   MXN Guadalajara
+DOM     $900.00   MXN Montreal
+FJG   $5'000.00   MXN Guadalajara
+CAP   $2'000.00   MXN Tijuana
+---   $3'000.00   MXN Tuxtla Gtz
+---     $350.00   MXN ANON
+---   $1'800.00   MXN ANON
+---     $500.00   MXN ANON
+
+
+```
+### Inversión ángel
+```
+
+MAV  $23'000.00   MXN Vancouver
+IAA  $40'000.00   MXN Mexico City
 
 ```
